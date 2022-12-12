@@ -5,3 +5,5 @@ sleep(3000);
 click("每日福利");
 sleep(3000);
 click("立即签到");
+sleep(3000);
+click("一键领取")
